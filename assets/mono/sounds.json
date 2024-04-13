@@ -1,0 +1,52 @@
+{
+	"music.boss3": {
+		"sounds": [
+			{
+				"name": "mono:monoboss3",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"music.boss3fadeout": {
+		"sounds": [
+			{
+				"name": "mono:monoboss3fadeout",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"music.shuniji": {
+		"sounds": [
+			{
+				"name": "mono:shuniji",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"music.axolotl": {
+		"sounds": [
+			{
+				"name": "mono:axolotl",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"music.dragonfish": {
+		"sounds": [
+			{
+				"name": "mono:dragonfish",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	}
+}

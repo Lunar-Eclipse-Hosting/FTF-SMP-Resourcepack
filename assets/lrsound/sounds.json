@@ -1,0 +1,12 @@
+{
+	"sus": {
+		"sounds": [
+			{
+				"name": "lrsound:sus",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	}
+}
