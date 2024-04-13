@@ -1,0 +1,62 @@
+    {
+        "providers": [
+            {
+                "type": "space",
+                "advances": {
+                    " ": 4,
+                    "‌": 0
+                }
+            },
+            {
+                "type": "bitmap",
+                "file": "minecraft:font/ascii.png",
+                "ascent": 7,
+                "height": 8,
+                "chars": [
+                    "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                    "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                    " !\"#$%&'()*+,-./",
+                    "0123456789:;<=>?",
+                    "@ABCDEFGHIJKLMNO",
+                    "PQRSTUVWXYZ[\\]^_",
+                    "`abcdefghijklmno",
+                    "pqrstuvwxyz{|}~\u0000",
+                    "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                    "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000£\u0000\u0000ƒ",
+                    "\u0000\u0000\u0000\u0000\u0000\u0000ªº\u0000\u0000¬\u0000\u0000\u0000«»",
+                    "░▒▓│┤╡╢╖╕╣║╗╝╜╛┐",
+                    "└┴┬├─┼╞╟╚╔╩╦╠═╬╧",
+                    "╨╤╥╙╘╒╓╫╪┘┌█▄▌▐▀",
+                    "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000∅∈\u0000",
+                    "≡±≥≤⌠⌡÷≈°∙\u0000√ⁿ²■\u0000"
+                ]
+            },
+            {
+                "ascent": 25,
+                "chars": [
+                    "\uAB00"
+                ],
+                "file": "ftf_smp:font/biomes/forest.png",
+                "height": 30,
+                "type": "bitmap"
+            },
+            {
+                "ascent": 25,
+                "chars": [
+                    "\uAB01"
+                ],
+                "file": "ftf_smp:font/biomes/desert.png",
+                "height": 30,
+                "type": "bitmap"
+            },
+            {
+                "ascent": 25,
+                "chars": [
+                    "\uAB02"
+                ],
+                "file": "ftf_smp:font/biomes/taiga.png",
+                "height": 30,
+                "type": "bitmap"
+            }
+        ]
+    }
