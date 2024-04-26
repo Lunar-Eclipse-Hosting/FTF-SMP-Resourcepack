@@ -2,7 +2,7 @@
 	"music.wave.1.1": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_1",
+				"name": "necro:undead_1_1",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -12,7 +12,7 @@
 	"music.wave.1.2": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_2",
+				"name": "necro:undead_1_2",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -22,7 +22,7 @@
 	"music.wave.1.3": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_3",
+				"name": "necro:undead_1_3",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -32,7 +32,7 @@
 	"music.wave.1.4": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_4",
+				"name": "necro:undead_1_4",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -42,7 +42,7 @@
 	"music.wave.2.1": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_1",
+				"name": "necro:undead_2_1",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -52,7 +52,7 @@
 	"music.wave.2.2": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_2",
+				"name": "necro:undead_2_2",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -62,7 +62,7 @@
 	"music.wave.2.3": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_3",
+				"name": "necro:undead_2_3",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -72,7 +72,7 @@
 	"music.wave.2.4": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_4",
+				"name": "necro:undead_2_4",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -82,7 +82,7 @@
 	"music.wave.3.1": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_1",
+				"name": "necro:undead_3_1",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -92,7 +92,7 @@
 	"music.wave.3.2": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_2",
+				"name": "necro:undead_3_2",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -102,7 +102,7 @@
 	"music.wave.3.3": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_3",
+				"name": "necro:undead_3_3",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -112,7 +112,7 @@
 	"music.wave.3.4": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_4",
+				"name": "necro:undead_3_4",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -122,7 +122,7 @@
 	"music.wave.4.1": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_1",
+				"name": "necro:undead_4_1",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -132,7 +132,7 @@
 	"music.wave.4.2": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_2",
+				"name": "necro:undead_4_2",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -142,7 +142,7 @@
 	"music.wave.4.3": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_3",
+				"name": "necro:undead_4_3",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -152,7 +152,7 @@
 	"music.wave.4.4": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_4",
+				"name": "necro:undead_4_4",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -162,7 +162,7 @@
 	"music.wave.5.1": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_1",
+				"name": "necro:undead_5_1",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -172,7 +172,7 @@
 	"music.wave.5.2": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_2",
+				"name": "necro:undead_5_2",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -182,7 +182,7 @@
 	"music.wave.5.3": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_3",
+				"name": "necro:undead_5_3",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -192,7 +192,7 @@
 	"music.wave.5.4": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_4",
+				"name": "necro:undead_5_4",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -202,7 +202,7 @@
 	"music.wave.6.1": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_1",
+				"name": "necro:undead_6_1",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -212,7 +212,7 @@
 	"music.wave.6.2": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_2",
+				"name": "necro:undead_6_2",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -222,7 +222,7 @@
 	"music.wave.6.3": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_3",
+				"name": "necro:undead_6_3",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -232,7 +232,7 @@
 	"music.wave.6.4": {
 		"sounds": [
 			{
-				"name": "necro:wave_1_4",
+				"name": "necro:undead_6_4",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
