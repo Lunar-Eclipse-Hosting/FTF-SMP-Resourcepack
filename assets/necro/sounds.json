@@ -278,5 +278,15 @@
 				"weight": 1
 			}
 		]
+	},
+	"music.closer": {
+		"sounds": [
+			{
+				"name": "necro:closer",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
 	}
 }
