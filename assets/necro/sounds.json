@@ -3,7 +3,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_1_1",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -13,7 +13,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_1_2",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -23,7 +23,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_1_3",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -33,7 +33,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_1_4",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -43,7 +43,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_2_1",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -53,7 +53,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_2_2",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -63,7 +63,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_2_3",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -73,7 +73,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_2_4",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -83,7 +83,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_3_1",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -93,7 +93,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_3_2",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -103,7 +103,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_3_3",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -113,7 +113,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_3_4",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -123,7 +123,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_4_1",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -133,7 +133,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_4_2",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -143,7 +143,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_4_3",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -153,7 +153,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_4_4",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -163,7 +163,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_5_1",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -173,7 +173,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_5_2",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -183,7 +183,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_5_3",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -193,7 +193,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_5_4",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -203,7 +203,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_6_1",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -213,7 +213,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_6_2",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -223,7 +223,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_6_3",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
@@ -233,7 +233,7 @@
 		"sounds": [
 			{
 				"name": "necro:undead_6_4",
-				"volume": 1,
+				"volume": 1.2,
 				"pitch": 1,
 				"weight": 1
 			}
