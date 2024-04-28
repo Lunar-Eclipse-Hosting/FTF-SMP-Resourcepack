@@ -238,5 +238,45 @@
 				"weight": 1
 			}
 		]
+	},
+	"music.transition": {
+		"sounds": [
+			{
+				"name": "necro:transition",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"music.final_transition": {
+		"sounds": [
+			{
+				"name": "necro:final_transition",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"music.final": {
+		"sounds": [
+			{
+				"name": "necro:final",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"music.final2": {
+		"sounds": [
+			{
+				"name": "necro:final2",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
 	}
 }

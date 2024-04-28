@@ -1,0 +1,14 @@
+{
+    "providers": [
+    { "type": "bitmap",
+            "file": "necro:font/nalgos.png",
+            "ascent": 18, "height": 64,
+            "chars": ["\uE913"]
+        },
+    { "type": "bitmap",
+            "file": "necro:font/nalgos2.png",
+            "ascent": 18, "height": 64,
+            "chars": ["\uE914"]
+        }
+    ]
+}
