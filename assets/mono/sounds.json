@@ -48,5 +48,15 @@
 				"weight": 1
 			}
 		]
+	},
+	"music.cracking_the_code": {
+		"sounds": [
+			{
+				"name": "mono:cracking_the_code",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
 	}
 }
