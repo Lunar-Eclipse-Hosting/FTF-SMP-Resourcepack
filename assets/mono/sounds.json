@@ -58,5 +58,233 @@
 				"weight": 1
 			}
 		]
+	},
+	"entity.dweller.screech": {
+		"sounds": [
+			{
+				"name": "mono:dweller1",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			},
+			{
+				"name": "mono:dweller2",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			},
+			{
+				"name": "mono:dweller3",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"ambient.librarian": {
+		"sounds": [
+			{
+				"name": "mono:librarian/always_watching_amb",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			},
+			{
+				"name": "mono:librarian/behind_you_amb",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			},
+			{
+				"name": "mono:librarian/going_mad_amb",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			},
+			{
+				"name": "mono:librarian/no_one_there_amb",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			},
+			{
+				"name": "mono:librarian/safe_with_me_amb",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			},
+			{
+				"name": "mono:librarian/see_you_amb",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			},
+			{
+				"name": "mono:librarian/why_amb",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"music.subwoofer": {
+		"sounds": [
+			{
+				"name": "mono:librarian/subwoofer",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"music.subwoofer_fake": {
+		"sounds": [
+			{
+				"name": "mono:librarian/subwoofer_fake",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"music.herobrines_lullaby": {
+		"sounds": [
+			{
+				"name": "mono:librarian/herobrine_lullaby",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"ambient.jumpscare_build": {
+		"sounds": [
+			{
+				"name": "mono:librarian/jumpscare_build",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"ambient.maze.0": {
+		"sounds": [
+			{
+				"name": "mono:librarian/maze",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"ambient.maze.1": {
+		"sounds": [
+			{
+				"name": "mono:librarian/maze_1",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"ambient.maze.2": {
+		"sounds": [
+			{
+				"name": "mono:librarian/maze_2",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"ambient.maze.3": {
+		"sounds": [
+			{
+				"name": "mono:librarian/maze_3",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"ambient.maze.4": {
+		"sounds": [
+			{
+				"name": "mono:librarian/maze_4",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"ambient.maze.5": {
+		"sounds": [
+			{
+				"name": "mono:librarian/maze_5",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"ambient.maze.6": {
+		"sounds": [
+			{
+				"name": "mono:librarian/maze_6",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"ambient.maze.7": {
+		"sounds": [
+			{
+				"name": "mono:librarian/maze_7",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"ambient.maze.8": {
+		"sounds": [
+			{
+				"name": "mono:librarian/maze_8",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"ambient.maze.9": {
+		"sounds": [
+			{
+				"name": "mono:librarian/maze_9",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"ambient.maze.10": {
+		"sounds": [
+			{
+				"name": "mono:librarian/maze_10",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"ambient.maze.11": {
+		"sounds": [
+			{
+				"name": "mono:librarian/maze_11",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
 	}
 }
