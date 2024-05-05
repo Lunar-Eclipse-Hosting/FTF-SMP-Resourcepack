@@ -1,0 +1,8 @@
+{
+  "parent": "backroom:block/wall_cube",
+  "textures": {
+    "side": "backroom:block/wallpaper",
+    "top": "backroom:block/floor",
+    "bottom": "backroom:block/ceiling"
+  }
+}
