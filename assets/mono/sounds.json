@@ -167,16 +167,6 @@
 			}
 		]
 	},
-	"ambient.maze.0": {
-		"sounds": [
-			{
-				"name": "mono:librarian/maze",
-				"volume": 1,
-				"pitch": 1,
-				"weight": 1
-			}
-		]
-	},
 	"ambient.maze.1": {
 		"sounds": [
 			{
@@ -281,6 +271,76 @@
 		"sounds": [
 			{
 				"name": "mono:librarian/maze_11",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"effect.the_end": {
+		"sounds": [
+			{
+				"name": "mono:the_end",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"ambient.end": {
+		"sounds": [
+			{
+				"name": "mono:endambient",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"entity.monolith.scream1": {
+		"sounds": [
+			{
+				"name": "mono:monoscream1",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"entity.monolith.scream2": {
+		"sounds": [
+			{
+				"name": "mono:monoscream2",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"entity.monolith.scream1_apocalypse": {
+		"sounds": [
+			{
+				"name": "mono:monoscream1_apocalypse",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"entity.monolith.scream2_apocalypse": {
+		"sounds": [
+			{
+				"name": "mono:monoscream2_apocalypse",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"redacted": {
+		"sounds": [
+			{
+				"name": "mono:redacted",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
