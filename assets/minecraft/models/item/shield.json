@@ -43,12 +43,12 @@
     },
     "overrides": [
         {"predicate": {"custom_model_data":1}, "model": "mono:item/ancient_shield"},
-        {"predicate": {"custom_model_data":1,"blocking":1}, "model": "mono:item/ancient_shield_blocking"},
         {
             "predicate": {
                 "blocking": 1
             },
             "model": "item/shield_blocking"
-        }
+        },
+        {"predicate": {"custom_model_data":1,"blocking":1}, "model": "mono:item/ancient_shield_blocking"}
     ]
 }
