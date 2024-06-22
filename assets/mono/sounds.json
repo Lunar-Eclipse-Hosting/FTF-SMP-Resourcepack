@@ -1,18 +1,28 @@
 {
-	"music.boss3": {
+	"music.boss2": {
 		"sounds": [
 			{
-				"name": "mono:monoboss3",
+				"name": "mono:monoboss2",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
 			}
 		]
 	},
-	"music.boss3fadeout": {
+	"music.boss2fadeout": {
 		"sounds": [
 			{
-				"name": "mono:monoboss3fadeout",
+				"name": "mono:monoboss2fadeout",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"music.boss3": {
+		"sounds": [
+			{
+				"name": "mono:monoboss3",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
@@ -75,6 +85,16 @@
 			},
 			{
 				"name": "mono:dweller3",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"entity.amalgam.death": {
+		"sounds": [
+			{
+				"name": "mono:amalgamscream",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
