@@ -366,5 +366,25 @@
 				"weight": 1
 			}
 		]
+	},
+	"entity.boss4.chargeup": {
+		"sounds": [
+			{
+				"name": "mono:boss4_charge",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"entity.boss4.death_ray": {
+		"sounds": [
+			{
+				"name": "mono:death_ray",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
 	}
 }
