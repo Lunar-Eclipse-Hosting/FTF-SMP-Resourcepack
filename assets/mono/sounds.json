@@ -29,10 +29,30 @@
 			}
 		]
 	},
+	"music.boss4": {
+		"sounds": [
+			{
+				"name": "mono:monoboss4",
+				"volume": 1,
+				"pitch": 1.1,
+				"weight": 1
+			}
+		]
+	},
 	"music.shuniji": {
 		"sounds": [
 			{
 				"name": "mono:shuniji",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"music.precipice": {
+		"sounds": [
+			{
+				"name": "mono:precipice",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
