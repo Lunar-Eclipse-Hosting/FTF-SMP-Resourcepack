@@ -197,6 +197,16 @@
 			}
 		]
 	},
+	"music.ruin": {
+		"sounds": [
+			{
+				"name": "mono:monolithic_ruin_v2",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
 	"ambient.jumpscare_build": {
 		"sounds": [
 			{
@@ -401,6 +411,16 @@
 		"sounds": [
 			{
 				"name": "mono:death_ray",
+				"volume": 1,
+				"pitch": 1,
+				"weight": 1
+			}
+		]
+	},
+	"entity.boss4.pulsate": {
+		"sounds": [
+			{
+				"name": "mono:pulsate",
 				"volume": 1,
 				"pitch": 1,
 				"weight": 1
